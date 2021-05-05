@@ -18,3 +18,4 @@ języku SQL, które:
 
 
 Odpowiedzi na pytania 1 – 3 należy przysłać w pliku .txt, jako odpowiedź do zadań 4,5 proszę odesłać zmodyfikowane pliki.
+                                  
