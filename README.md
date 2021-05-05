@@ -1,7 +1,7 @@
 # PotraFISZ - zadania
 
 # Pytania:
-1) Co jest potrzebne do poprawnego działania bazy danych w android studio?
+1) Co jest potrzebne do poprawnego działania bazy danych w Android Studio?
 
 2) Jaka czynność powoduje wywołanie metody onPause()?
 
